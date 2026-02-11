@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinopiperspin-online.com/
+Sitemap: https://casinopiperspin-online.com/sitemap.xml

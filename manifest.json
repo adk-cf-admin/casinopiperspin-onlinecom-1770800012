@@ -1,0 +1,19 @@
+{
+  "name": "Piperspin",
+  "short_name": "Piperspin",
+  "theme_color": "",
+  "background_color": "#00070E",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770799210-favicon.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
